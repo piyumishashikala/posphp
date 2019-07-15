@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="WebServers">
+    <option name="servers">
+      <webServer id="d6e860e7-827b-4a96-a82f-17ccb3256896" name="piyumi" url="http://localhost">
+        <fileTransfer port="0" mountedRoot="E:\lahiru aiyas homework\posphp" accessType="MOUNT" />
+      </webServer>
+    </option>
+  </component>
+</project>
